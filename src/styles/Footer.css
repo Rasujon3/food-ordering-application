@@ -25,3 +25,11 @@
 .footer p {
   color: white;
 }
+@media only screen and (max-width: 650px) {
+  .social svg {
+    color: white;
+    margin: 20px;
+    font-size: 35px;
+    cursor: pointer;
+  }
+}
